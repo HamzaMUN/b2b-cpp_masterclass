@@ -23,7 +23,7 @@ This masterclass is divided into 12 comprehensive chapters, each covering a fund
 - 3.2 switch Statements in C++
 - 3.3 Logical Operators and Conditions
 - 3.4 while, for, and do-while Loops
-- 3.5 Building Controlled Loops and Simple Loop Projects
+- 3.5 Sentinel-Controlled Loops and Simple Loop Projects
 
 ### Chapter 4: Functions and Recursion
 - 4.1 Creating Functions in C++
@@ -40,7 +40,7 @@ This masterclass is divided into 12 comprehensive chapters, each covering a fund
 
 ### Chapter 6: Advanced OOP Concepts
 - 6.1 Composition in Classes
-- 6.2 friend Keyword and the friend Initializer
+- 6.2 friend Keyword and this Pointer
 - 6.3 Operator Overloading in C++
 - 6.4 Inheritance and Access Modifiers
 - 6.5 Constructors in Derived Classes
@@ -73,15 +73,15 @@ This masterclass is divided into 12 comprehensive chapters, each covering a fund
 
 ### Chapter 11: Mini Projects & Final Wrap-up
 - 11.1 Stock Market Simulator in C++
-- 11.2 Final Project Breakdown & Overview
+- 11.2 Final Project Breakdown & Review
 - 11.3 Tips for Building Larger C++ Projects
-- 11.4 Final Course Summary and What's Next
+- 11.4 Final Course Summary and What’s Next
 
 ### Chapter 12: Scientific Computing in C++ - Solving BVPs
 - 12.1 Uniform Grid Generation in C++
 - 12.2 Finite Difference Approximation of sin(x)
 - 12.3 Constructing Error Tables: Forward, Backward, Central Differences
-- 12.4 Solving the Kx=b Vector and Tridiagonal Matrix
+- 12.4 Building the RHS Vector and Tridiagonal Matrix
 - 12.5 Solving Linear Systems for Boundary Value Problems
 - 12.6 Analyzing Results and Visualizing Accuracy
 - 12.7 Real-World Applications & Extensions
